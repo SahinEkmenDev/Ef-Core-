@@ -1,0 +1,7 @@
+{
+
+  "ConnectionStrings": {
+
+    "SqlCon": "Data Source=SAHINEKMEN\\SQLEXPRESS;Initial Catalog=UdemyEfCoreCodeFirstDb;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False"
+  }
+}
